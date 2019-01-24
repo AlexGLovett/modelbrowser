@@ -1,0 +1,4 @@
+Product - Biomet 3i
+Model Type - Stone
+Restoration - Biomet 3i ICs (4,6,10,12)
+Additional Scan Objects - None

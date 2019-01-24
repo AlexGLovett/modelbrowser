@@ -1,0 +1,5 @@
+Product - CC IB
+Model Type - Stone
+Restoration - 3U CC IC bridge (29-31)
+IC Seat Location- CC RP (29); CC WP (31)
+Additional Scan Objects - None

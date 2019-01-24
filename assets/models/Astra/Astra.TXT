@@ -1,0 +1,4 @@
+Product - Astra Tech
+Model Type - Stone
+Restoration - Astra Tech ICs (7,11,14)
+Additional Scan Objects - None

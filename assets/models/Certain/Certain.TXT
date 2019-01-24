@@ -1,0 +1,4 @@
+Product - Biomet Certain Int
+Model Type - Stone
+Restoration - Certain Int ICs (4,6,11,13)
+Additional Scan Objects - None

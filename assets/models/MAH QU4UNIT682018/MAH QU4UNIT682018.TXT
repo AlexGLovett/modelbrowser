@@ -1,0 +1,14 @@
+Product - CC IB
+Model Type - Epoxy
+Restoration - 4U IB (7-10)
+IC Seat Location- CC NP (7;10); CC RP (9)
+IC Seat Location- CC NP (7;10); CC RP (9)
+IC Seat Location- CC NP (7;10); CC RP (9)
+IC Seat Location- CC NP (7;10); CC RP (9)
+IC Seat Location- CC NP (7;10); CC RP (9)
+IC Seat Location- CC NP (7;10); CC RP (9)
+IC Seat Location- CC NP (7;10); CC RP (9)
+IC Seat Location- CC NP (7;10); CC RP (9)
+IC Seat Location- CC NP (7;10); CC RP (9)
+IC Seat Location- CC NP (7,10), CC RP (9)
+Additional Scan Objects - Diagnostic

@@ -1,0 +1,14 @@
+Product - MUA IB
+Model Type - Epoxy
+Restoration - 7U IB (9-15)
+IC Seat Location- MU RP (10;15); MU WP (11)
+IC Seat Location- MU RP (10;15); MU WP (11)
+IC Seat Location- MU RP (10;15); MU WP (11)
+IC Seat Location- MU RP (10;15); MU WP (11)
+IC Seat Location- MU RP (10;15); MU WP (11)
+IC Seat Location- MU RP (10;15); MU WP (11)
+IC Seat Location- MU RP (10;15); MU WP (11)
+IC Seat Location- MU RP (10;15); MU WP (11)
+IC Seat Location- MU RP (10;15); MU WP (11)
+IC Seat Location- MU RP (10,15), MU WP (11)
+Additional Scan Objects - Diagnostic

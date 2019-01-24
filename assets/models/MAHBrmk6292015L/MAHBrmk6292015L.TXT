@@ -1,0 +1,4 @@
+Product - BRM IC & REP IC
+Model Type - Epoxy
+Restoration - BRM RP (19); BRM NP (25); REP 6.0 (30)
+Additional Scan Objects - None

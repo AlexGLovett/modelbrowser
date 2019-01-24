@@ -1,0 +1,14 @@
+Product - BRM IB
+Model Type - Stone
+Restoration - 4U implant bridge (27-30)
+IC Seat Location- BRM RP (27;28); BRM WP (30)
+IC Seat Location- BRM RP (27;28); BRM WP (30)
+IC Seat Location- BRM RP (27;28); BRM WP (30)
+IC Seat Location- BRM RP (27;28); BRM WP (30)
+IC Seat Location- BRM RP (27;28); BRM WP (30)
+IC Seat Location- BRM RP (27;28); BRM WP (30)
+IC Seat Location- BRM RP (27;28); BRM WP (30)
+IC Seat Location- BRM RP (27;28); BRM WP (30)
+IC Seat Location- Brmk RP (27;28); Brmk WP (30)
+IC Seat Location- BRM RP (27,28), BRM WP (30)
+Additional Scan Objects - Diagnostic

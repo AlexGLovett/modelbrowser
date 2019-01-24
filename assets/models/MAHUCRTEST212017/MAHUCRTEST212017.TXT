@@ -1,0 +1,4 @@
+Product - Crowns
+Model Type - Epoxy
+Restoration - Crowns (4;8;11;14)
+Additional Scan Objects - Diagnostics

@@ -1,0 +1,4 @@
+Product - CC & REP ICs
+Model Type - Stone
+Restoration - CC 3.0 (23); REP WP (30)
+Additional Scan Objects - Diagnostics (23;30)

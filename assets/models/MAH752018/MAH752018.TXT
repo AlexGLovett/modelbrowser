@@ -1,0 +1,5 @@
+Product - CC IB
+Model Type - Stone
+Restoration - 6U CC B (11-15)
+IC Location: CC RP (11); CC NP (13); CC WP (14)
+Additional Scan Objects - None

@@ -1,0 +1,5 @@
+Product - CC IB
+Model Type - Stone
+Restoration -  8U CC IB (5-12)
+IC Seat Location- CC NP (5;8;9;12); CC RP (6;11)
+Additional Scan Objects - None

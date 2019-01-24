@@ -1,0 +1,4 @@
+Product - REP ICs
+Model Type - Stone
+Restoration - REP NP (7); REP WP (3); REP 6.0 (14)
+Additional Scan Objects - None

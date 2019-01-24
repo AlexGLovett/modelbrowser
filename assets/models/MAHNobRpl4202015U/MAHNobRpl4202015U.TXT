@@ -1,0 +1,5 @@
+Product - REP IB
+Model Type - Stone
+Restoration - REP IB (8-9)
+IC Seat Location- REP NP (8;9)
+Additional Scan Objects - None

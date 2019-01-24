@@ -1,0 +1,14 @@
+Product - CC IB
+Model Type - Epoxy
+Restoration - 2U IB (30-31)
+IC Seat Location- CC RP (30); CC WP (31)
+IC Seat Location- CC RP (30); CC WP (31)
+IC Seat Location- CC RP (30); CC WP (31)
+IC Seat Location- CC RP (30); CC WP (31)
+IC Seat Location- CC RP (30); CC WP (31)
+IC Seat Location- CC RP (30); CC WP (31)
+IC Seat Location- CC RP (30); CC WP (31)
+IC Seat Location- CC RP (30); CC WP (31)
+IC Seat Location- CC RP (30); CC WP (31)
+IC Seat Location- CC RP (30), CC WP (31)
+Additional Scan Objects - Diagnostic

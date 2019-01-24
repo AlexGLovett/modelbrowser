@@ -1,0 +1,14 @@
+Product - CC IB
+Model Type - 3D
+Restoration - 4U IB (12-15)
+IC Seat Location- CC NP (12;13;14); CC RP (15)
+IC Seat Location- CC NP (12;13;14); CC RP (15)
+IC Seat Location- CC NP (12;13;14); CC RP (15)
+IC Seat Location- CC NP (12;13;14); CC RP (15)
+IC Seat Location- CC NP (12;13;14); CC RP (15)
+IC Seat Location- CC NP (12;13;14); CC RP (15)
+IC Seat Location- CC NP (12;13;14); CC RP (15)
+IC Seat Location- CC NP (12;13;14); CC RP (15)
+IC Seat Location- CC NP (12;13;14); CC RP (15)
+IC Seat Location- CC NP (12,13,14), CC RP (15)
+Additional Scan Objects - Diagnostic

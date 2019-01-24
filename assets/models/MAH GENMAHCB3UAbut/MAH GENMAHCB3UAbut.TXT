@@ -1,0 +1,5 @@
+Product - REP & CC IB
+Model Type - Stone
+Restoration - 3U REP/CC IB (12-14)
+IC Seat Location- CC NP (12); REP WP (14)
+Additional Scan Objects - Diagnostics (12;14)

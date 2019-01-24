@@ -1,0 +1,4 @@
+Product - Zimmer
+Model Type - Stone
+Restoration - Zimmer IC 3.5 (7), Zimmer IC 4.5 (4), Zimmer IC 5.7 (14)
+Additional Scan Objects - None

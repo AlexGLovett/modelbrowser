@@ -1,0 +1,4 @@
+Product - REP IC; CC IC; CB; Crown
+Model Type - Stone
+Restoration - REP 6.0 (3); CC 3.0 (7); Crown (9); 3U B (12-14)
+Additional Scan Objects - None

@@ -1,0 +1,5 @@
+Product - CC IB; CC IC
+Model Type - Epoxy
+Restoration - 3U IB (12-14); CC RP IC
+IC Seat Location- CC RP (8); CC NP (12); CC WP (14)
+Additional Scan Objects - Diagnostics

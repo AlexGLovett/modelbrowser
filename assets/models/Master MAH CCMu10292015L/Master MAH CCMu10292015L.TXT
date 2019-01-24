@@ -1,0 +1,14 @@
+Product - CC & MUA IB
+Model Type - Stone
+Restoration - 8U IB (19-26)
+IC Seat Location- MU WP (19); MU RP (22); CC NP (25)
+IC Seat Location- MU WP (19); MU RP (22); CC NP (25)
+IC Seat Location- MU WP (19); MU RP (22); CC NP (25)
+IC Seat Location- MU WP (19); MU RP (22); CC NP (25)
+IC Seat Location- MU WP (19); MU RP (22); CC NP (25)
+IC Seat Location- MU WP (19); MU RP (22); CC NP (25)
+IC Seat Location- MU WP (19); MU RP (22); CC NP (25)
+IC Seat Location- MU WP (19); MU RP (22); CC NP (25)
+IC Seat Location- MU WP (19); MU RP (22); CC NP (25)
+IC Seat Location- MU WP (19), MU RP (22), CC NP (25)
+Additional Scan Objects - Diagnostic

@@ -1,0 +1,4 @@
+Product - CB & IB
+Model Type - Stone
+Restoration - 3U Bridge (19-21); 4U (27-30)
+Additional Scan Objects - Diagnostic (2)

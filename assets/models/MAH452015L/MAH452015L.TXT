@@ -1,0 +1,4 @@
+Product - REP ICs
+Model Type - Epoxy
+Restoration - REP RP (20); REP NP (23); REP WP (30)
+Additional Scan Objects - Stone Replica; Diagnostics (20; 24)

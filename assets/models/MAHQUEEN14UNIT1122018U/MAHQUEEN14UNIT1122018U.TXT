@@ -1,0 +1,14 @@
+Product - REP & MUA IB
+Model Type - Epoxy
+Restoration - 14U IB (2-15)
+IC Seat Location-  REP WP (3); REP NP (5); MU NP (9); REP RP (11); MU WP (15)
+IC Seat Location-  REP WP (3); REP NP (5); MU NP (9); REP RP (11); MU WP (15)
+IC Seat Location-  REP WP (3); REP NP (5); MU NP (9); REP RP (11); MU WP (15)
+IC Seat Location-  REP WP (3); REP NP (5); MU NP (9); REP RP (11); MU WP (15)
+IC Seat Location-  REP WP (3); REP NP (5); MU NP (9); REP RP (11); MU WP (15)
+IC Seat Location-  REP WP (3); REP NP (5); MU NP (9); REP RP (11); MU WP (15)
+IC Seat Location-  REP WP (3); REP NP (5); MU NP (9); REP RP (11); MU WP (15)
+IC Seat Location-  REP WP (3); REP NP (5); MU NP (9); REP RP (11); MU WP (15)
+IC Seat Location-  TC WP (3); TC NP (5); MU NP (9); TC RP (11); MU WP (15)
+IC Seat Location-  REP WP (3), REP NP (5), MU NP (9), REP RP (11), MU WP (15)
+Additional Scan Objects - Diagnostic

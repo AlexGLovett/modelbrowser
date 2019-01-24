@@ -1,0 +1,14 @@
+Product - REP IB
+Model Type - Epoxy
+Restoration - 5 Unit IB (24-28)
+IC Seat Location- REP NP (24;27;28)
+IC Seat Location- REP NP (24;27;28)
+IC Seat Location- REP NP (24;27;28)
+IC Seat Location- REP NP (24;27;28)
+IC Seat Location- REP NP (24;27;28)
+IC Seat Location- REP NP (24;27;28)
+IC Seat Location- REP NP (24;27;28)
+IC Seat Location- REP NP (24;27;28)
+IC Seat Location- TC NP (24;27;28)
+IC Seat Location- REP NP (24,27,28)
+Additional Scan Objects - Diagnostic

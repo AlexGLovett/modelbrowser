@@ -1,0 +1,5 @@
+Product - CC & REP IB
+Model Type - Epoxy
+Restoration - 6U IB (6-11)
+IC Seat Location- REP RP (6); REP NP (7); CC NP (9); CC RP (10)
+Additional Scan Objects - Diagnostic

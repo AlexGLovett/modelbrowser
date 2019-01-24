@@ -1,0 +1,5 @@
+Product - MUA IB
+Model Type - Epoxy
+Restoration - 14U MU IB (2-15)
+IC Seat Location- MU RP; MU WP
+Additional Scan Objects - None

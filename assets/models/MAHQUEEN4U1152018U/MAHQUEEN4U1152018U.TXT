@@ -1,0 +1,5 @@
+Product - CC IB & BRM IB
+Model Type - Epoxy
+Restoration - 4U IB (2-5); 4U IB (12-15)
+IC Seat Location- CC WP (2); CC RP (4); CC NP (5); BRM NP (12); BRM RP (13); BRM WP (15)
+Additional Scan Objects - Diagnostic

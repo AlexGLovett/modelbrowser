@@ -1,0 +1,4 @@
+Product - None IC
+Model Type - Stone
+Restoration - Universal (3;7)
+Additional Scan Objects - None

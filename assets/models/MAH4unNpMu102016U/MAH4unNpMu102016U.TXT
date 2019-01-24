@@ -1,0 +1,5 @@
+Product - REP & MUA IB
+Model Type - Stone
+Restoration - 4U REP/MUA IB (7-10)
+IC Seat Location- REP NP (7;10); MUA RP (9)
+Additional Scan Objects - None

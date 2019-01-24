@@ -1,0 +1,5 @@
+Product - MUA IB
+Model Type - Stone
+Restoration - 14U MUA IB (2-15)
+IC Seat Location- MUA (3;7;9;11;15)
+Additional Scan Objects - None

@@ -1,0 +1,4 @@
+Product - CB & Crowns
+Model Type - Stone
+Restoration - 5U Bridge (2-6) ; Crowns (10; 12; 14)
+Additional Scan Objects - None 

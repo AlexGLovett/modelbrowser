@@ -1,0 +1,5 @@
+Product - CC B
+Model Type - Epoxy
+Restoration - 14U CC IB (2-15)
+IC Seat Location - CC WP; CC RP; CC NP
+Additional Scan Objects - None

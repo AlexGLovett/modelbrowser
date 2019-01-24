@@ -1,0 +1,4 @@
+Product - REP IC & CC ICs
+Model Type - Epoxy
+Restoration - CC RP (4;9); TP RP (14)
+Additional Scan Objects - None

@@ -1,0 +1,5 @@
+Product - Camlog
+Model Type - Stone
+Restoration - 4U Camlog Implant Bridge (2-5); 4U Camlog Implant Bridge (12-15) 
+Implant Seat Location- Camlog 5.0 (2;15); Camlog 4.3 (5); Camlog 3.6 (13); Camlog 3.3 (12)
+Additional Scan Objects - None

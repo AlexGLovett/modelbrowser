@@ -1,0 +1,14 @@
+Product - MUA IB 
+Model Type - Stone
+Restoration - 4U IB (28-31)
+IC Seat Location- MU RP (28;29); MU WP (31)
+IC Seat Location- MU RP (28;29); MU WP (31)
+IC Seat Location- MU RP (28;29); MU WP (31)
+IC Seat Location- MU RP (28;29); MU WP (31)
+IC Seat Location- MU RP (28;29); MU WP (31)
+IC Seat Location- MU RP (28;29); MU WP (31)
+IC Seat Location- MU RP (28;29); MU WP (31)
+IC Seat Location- MU RP (28;29); MU WP (31)
+IC Seat Location- MU RP (28;29); MU WP (31)
+IC Seat Location- MU RP (28,29), MU WP (31)
+Additional Scan Objects - Diagnostic

@@ -1,0 +1,14 @@
+Product - CC IB
+Model Type - Stone
+Restoration - 14U IB (2-15)
+IC Seat Location- CC WP (3); CC NP (5); CC RP (8;11;13)
+IC Seat Location- CC WP (3); CC NP (5); CC RP (8;11;13)
+IC Seat Location- CC WP (3); CC NP (5); CC RP (8;11;13)
+IC Seat Location- CC WP (3); CC NP (5); CC RP (8;11;13)
+IC Seat Location- CC WP (3); CC NP (5); CC RP (8;11;13)
+IC Seat Location- CC WP (3); CC NP (5); CC RP (8;11;13)
+IC Seat Location- CC WP (3); CC NP (5); CC RP (8;11;13)
+IC Seat Location- CC WP (3); CC NP (5); CC RP (8;11;13)
+IC Seat Location- CC WP (3); CC NP (5); CC RP (8;11;13)
+IC Seat Location- CC WP (3), CC NP (5), CC RP (8,11,13)
+Additional Scan Objects - Diagnostic

@@ -1,0 +1,4 @@
+Product - CC IC 
+Model Type - Stone
+Restoration - CC NP (4); CC RP (9); CC WP (14)
+Additional Scan Objects - Diagnostics (4;9;14)
