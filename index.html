@@ -18,11 +18,10 @@
                 <div class="col-sm-12 col-md-8 col-lg-4 align-self-center py-2 text-center">
 
                     <div class="container my-3 text-center">
-                        <button type="button" class="btn btn-primary" id="addNewModelButton">Add Model</button>
-                        <button type="button" class="btn btn-primary" id="updateModelButton">Update Model</button>
+                        <button type="button" class="btn btn-danger" id="addNewModelButton" data-toggle="modal" data-target="#addModelModal">Add Model</button>
                     </div>
         
-                    <form>
+                    <form id="searchTerms">
                         <div class="form-group">
                             <label for="searchByName">Search By Name (case resilient)</label>
                             <input type="text" class="form-control" id="searchByName" aria-describedby="searchByName" placeholder="EXAMPLEnprp08212017U">
@@ -77,14 +76,125 @@
                             <option>6.0</option>
                             </select>
                         </div>
+        
+                     
 
                         <div class="container text-center">
-                            <button type="submit" class="btn btn-primary" id="submitSearchButton">Submit</button>
-                            <button type="button" class="btn btn-primary" id="resetSearchButton">Reset</button>
+                            <button type="button" class="btn btn-danger" id="submitSearchButton" data-toggle="modal" data-target="#searchResultsModal">Submit</button>
+                            <button type="button" class="btn btn-danger" id="resetSearchButton">Reset</button>
                         </div>
                         
                     </form>
 
+                    <div class="modal fade" id="searchResultsModal" tabindex="-1" role="dialog" aria-labelledby="searchResultsModal" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="searchResultsModalTitle">Model Search Results</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            <div class="modal-body">
+                                Loading Models...
+                            </div>
+                            <form class="col-6 align-self-center">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="checkoutUser" aria-describedby="checkoutUser" placeholder="P. Rocerio">
+                                    <small for="checkoutUser">Renter/Project Name</small>
+                                </div>
+                            </form>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-danger" id="checkoutModelsButton">Checkout Models</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="modal fade" id="addModelModal" tabindex="-1" role="dialog" aria-labelledby="addModelModal" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLongTitle">Add Model Details</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <form id="addModelForm">
+                                        <div class="form-group ">
+                                                <label for="addModelModal-modelName">Model Name</label>
+                                                <input type="text" class="form-control" id="addModelModal-modelName" aria-describedby="addModelModal-modelName" placeholder="GENMAHexample01012019U">
+                                            </div>
+                                            <div class="form-group ">
+                                                <label for="addModelModal-modelType">Model Type</label>
+                                                <select multiple class="form-control" size="2" id="restoTypeSelect">
+                                                    <option>Implant</option>
+                                                    <option>Cemented</option>
+                                                </select>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="unitCountSelect">Max Number of Units per Restoration</label>
+                                                <select multiple class="form-control" size="3" id="unitCountSelect">
+                                                <option>1</option>
+                                                <option>2</option>
+                                                <option>3</option>
+                                                <option>4</option>
+                                                <option>5</option>
+                                                <option>6</option>
+                                                <option>7</option>
+                                                <option>8</option>
+                                                <option>9</option>
+                                                <option>10</option>
+                                                <option>11</option>
+                                                <option>12</option>
+                                                <option>13</option>
+                                                <option>14</option>
+                                                </select>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="platTypeSelect">Implant Platform Type(s)</label>
+                                                <select multiple class="form-control" size="2" id="platTypeSelect">
+                                                <option>CC</option>
+                                                <option>REP</option>
+                                                <option>BRM</option>
+                                                <option>ON1</option>
+                                                <option>UNIBASE</option>
+                                                <option>ASTRA</option>
+                                                <option>BIOMET</option>
+                                                <option>CAMLOG</option>
+                                                <option>STRAUMANN</option>
+                                                </select>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="platSizeSelect">Implant Platform Size(s)</label>
+                                                <select multiple class="form-control" id="platSizeSelect">
+                                                <option>3.0</option>
+                                                <option>NP</option>
+                                                <option>RP</option>
+                                                <option>WP</option>
+                                                <option>6.0</option>
+                                                </select>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="addModelModal-modelImage">Model Images</label>
+                                                <input type="file" class="form-control-file" id="addModelModal-modelImage" aria-describedby="fileHelp">
+                                                <small id="fileHelp" class="form-text text-muted">Choose 1-6 Pictures</small>
+                                            </div>
+                                    </form>
+                                </div>
+                                <form>
+                                    <div class="col-8 align-self-center justify-content-center">
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            <button type="button" class="btn btn-danger" id="addModelDBButton">Add Model</button>
+                                        </div>
+                                    </div>
+                                </form>                                
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
